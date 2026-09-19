@@ -1,4 +1,4 @@
-![logo](../images/two-nations-one-future128x128.png)
+![logo](../images/two-nations-one-future-128x128.png)
 # Peace For Palestine
 ## Two Nations, One Future
 ### Peace For Palestine Manifesto  
